@@ -1,0 +1,17 @@
+C:\Repositorios\Receiver\bin\Debug\net7.0\Receiver.exe
+C:\Repositorios\Receiver\bin\Debug\net7.0\Receiver.deps.json
+C:\Repositorios\Receiver\bin\Debug\net7.0\Receiver.runtimeconfig.json
+C:\Repositorios\Receiver\bin\Debug\net7.0\Receiver.dll
+C:\Repositorios\Receiver\bin\Debug\net7.0\Receiver.pdb
+C:\Repositorios\Receiver\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.csproj.AssemblyReference.cache
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.AssemblyInfoInputs.cache
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.AssemblyInfo.cs
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.csproj.CoreCompileInputs.cache
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.csproj.CopyComplete
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.dll
+C:\Repositorios\Receiver\obj\Debug\net7.0\refint\Receiver.dll
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.pdb
+C:\Repositorios\Receiver\obj\Debug\net7.0\Receiver.genruntimeconfig.cache
+C:\Repositorios\Receiver\obj\Debug\net7.0\ref\Receiver.dll
